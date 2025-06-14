@@ -31,3 +31,9 @@ The system speaks the object names out loud.
 🛡️ Smart surveillance and security systems
 
 🗣️ Voice-enabled object detection for interactive applications
+
+
+How to run streamlit application:
+
+streamlit run objdetection.py        // streamlit run file_name.py
+
